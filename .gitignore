@@ -1,3 +1,7 @@
+# LoggingActor
+LoggingActor/Log/
+LoggingActor/Python/
+
 # Libraries
 *.lvlibp
 *.llb
